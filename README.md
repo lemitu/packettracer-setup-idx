@@ -7,7 +7,7 @@
 ## 🚀 Cách sử dụng:
 
 ```bash
-git clone https://github.com/<your-username>/packettracer-setup-idx.git
+git clone https://github.com/lemitu/packettracer-setup-idx.git
 cd packettracer-setup-idx
 
 chmod +x install_packettracer.sh
